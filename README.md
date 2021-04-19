@@ -1,4 +1,4 @@
-[![ChengPeiQuan's github stats](https://github-readme-stats.vercel.app/api?username=chengpeiquan&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Most Used languages](https://github-stats.liuli.lol/api/top-langs/?username=chengpeiquan&theme=vue-dark&layout=compact)
+[![ChengPeiQuan's github stats](https://github-readme-stats.vercel.app/api?username=chengpeiquan&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Most Used languages](https://github-stats.liuli.lol/api/top-langs/?username=chengpeiquan&theme=react&layout=compact)
 
 <!--
 ### Hi there 👋
