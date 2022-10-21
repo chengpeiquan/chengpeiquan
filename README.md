@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=chengpeiquan&theme=vue&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&layout=compact&hide_border=true&bg_color=ffffff00&text_color=666" width="380" alt="GitHub Stats" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=chengpeiquan&theme=vue&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&layout=compact&hide_border=true&bg_color=ffffff00&text_color=666" width="400" alt="GitHub Stats" align="right" />
 
 <samp>
   <ul>
