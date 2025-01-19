@@ -9,6 +9,8 @@
   </samp>
 </p>
 
+<hr />
+
 <img src="https://cdn.chengpeiquan.com/img/2025/01/202501012317610.jpg?x-oss-process=image/interlace,1" width="310" alt="《前端工程化：基于 Vue.js 3.0 的设计与实践》" align="right" />
 
 <samp>
@@ -19,6 +21,7 @@
     <li>从 2018 年留长发至今，已过肩快及腰，喜欢听摇滚乐 / 新金属 / 核</li>
     <li>家庭主厨，小红书的潮汕美食博主 <a href="https://github.com/chengpeiquan/cooking-cookbook">@底迪</a> ，擅长烹饪粤菜和潮汕菜</li>
     <li>出版了一本 <a href="https://union-click.jd.com/jdc?e=jdext-1638352360249409536-0-1&p=JF8BARkJK1olXwQBUVpdAE8SAF8IGVMRXgICV24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAXFpeDEsUHDZNRwYlX1JEIQg5XCt0ZAlqUiVNX0FQACsWTkcbM28BG1kdXAcCU11tCEoWA2sNGFgTXDYyVFttWiXPtdnQvuoJiayNgdbKOEonA2gBGVkdXwEHVFdeAXsXC2s4zfWBiI69je743uG51uK4ztK-ibiEZG5tC3tMVjtBXkcVWgQLVlpeCkwWAGoAHlodWQQFSF9BCHsXAm4KE1gWWgQGOltdCUoVAGoBElh7XwcDVltdDksXAV8IK1glA2gDB1heWkweVgFVQgkdX00BHTBdDUgXAW4OHF8lXwcDVlxtOA">《前端工程化：基于 Vue.js 3.0 的设计与实践》</a> 纸质书</li>
+    <li>社恐人士，有事找我请给我发邮件</li>
   </ul>
 </samp>
 
